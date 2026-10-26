@@ -1,5 +1,7 @@
 # 🤖 Sorty
 
+### Sorty has been archived in favor of [sorty-web](https://github.com/catherinepereira/sorty-web)
+
  <img width="1868" height="1265" alt="sorty" src="https://github.com/user-attachments/assets/5813d4fb-dbcf-41a1-a2d9-3f67994a3a0d" />
 
 A local tool for building and cleaning image classification datasets. A FastAPI backend
